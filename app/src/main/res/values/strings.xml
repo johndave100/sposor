@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sponsored Detector</string>
+    <string name="app_description">Automatically mutes volume when sponsored content is detected on screen</string>
+    <string name="enable_detection">Enable Detection</string>
+    <string name="instructions">Instructions:\n1. Enable the switch above\n2. Grant overlay permission when prompted\n3. Enable accessibility service when prompted\n4. The app will automatically mute volume when it detects \"sponsored\" text</string>
+    <string name="accessibility_service_description">Detects sponsored content on screen to automatically mute volume</string>
+</resources>
